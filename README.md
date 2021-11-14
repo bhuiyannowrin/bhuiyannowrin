@@ -44,7 +44,7 @@
       <p><i><b>SOFTWARE</i></p>
       <ul>
         <li> <i><b>Coding :</b></i> CodeBlocks, NetBeans, Jupyter, PyCharm, Spyder, MATLAB, Android Studio, VS Code, Arduino, Microsoft Power BI</li>
-        <li> <i><b>Editing :</b></i> Adobe Premier Pro, Filmora, Adobe Photoshop, Adobe Illustrator</li>
+        <li> <i><b>Editing :</b></i> Adobe Premiere Pro, Filmora, Adobe Photoshop, Adobe Illustrator</li>
         <li> <i><b>Others :</b> </i> Microsoft Office, G Suit, Canva</li>
       </ul>
     </td>
